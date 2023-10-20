@@ -1,2 +1,1 @@
-# vamos-a-empezar-de-nuevo-
-este es un repositorio de prueba
+esta es mi segunda oportudidad
